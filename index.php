@@ -1,3 +1,5 @@
+
+
 <?php
 //phpinfo();
 require_once 'dbconfig.php';
@@ -20,7 +22,7 @@ if(isset($_POST['btn-login']))
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Admin CRO</title>
+<title>Git Training</title>
 <link rel="stylesheet" href="bootstrap/bootstrap.min.css" type="text/css"  />
 <link rel="stylesheet" href="style.css" type="text/css"  />
 </head>
